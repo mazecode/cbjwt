@@ -1,30 +1,31 @@
 {
-    "name":"My Package",
-    "version":"0.1.0",
-    "author":"",
-    "location":"",
-    "homepage":"",
-    "documentation":"",
+    "name":"Coldbox JSON Web Token",
+    "version":"1.0.0",
+    "author":"Mazecode",
+    "location":"https://github.com/mazecode/cbjwt/archive/1.0.0.zip",
+    "homepage":"https://github.com/mazecode/cbjwt",
+    "documentation":"https://github.com/mazecode/cbjwt",
     "repository":{
-        "type":"",
-        "URL":""
+        "type":"git",
+        "URL":"https://github.com/mazecode/cbjwt"
     },
     "bugs":"",
     "slug":"cbjwt",
-    "shortDescription":"A sweet package",
-    "description":"",
+    "shortDescription":"Coldbox JSON Web Token",
+    "description":"Coldbox JSON Web Token",
     "instructions":"",
     "changelog":"",
     "type":"",
     "keywords":[
-        
+        "jwt",
+        "JSON Web Token"
     ],
     "private":false,
     "projectURL":"https://github.com/mazecode/cbjwt",
     "license":[
         {
-            "type":"",
-            "URL":""
+            "type":"MIT",
+            "url":"http://opensource.org/licenses/MIT"
         }
     ],
     "contributors":[

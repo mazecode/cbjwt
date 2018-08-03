@@ -1,6 +1,6 @@
 {
     "name":"My Package",
-    "version":"0.0.0",
+    "version":"0.1.0",
     "author":"",
     "location":"",
     "homepage":"",
@@ -20,7 +20,7 @@
         
     ],
     "private":false,
-    "projectURL":"",
+    "projectURL":"https://github.com/mazecode/cbjwt",
     "license":[
         {
             "type":"",

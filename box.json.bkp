@@ -1,0 +1,69 @@
+{
+    "name":"CF JWT Simple",
+    "version":"0.0.0",
+    "author":"Jason Steinshouer <jason.steinshouer@gmail.com>",
+    "location":"https://github.com/jsteinshouer/cf-jwt-simple/archive/master.zip",
+    "homepage":"",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/jsteinshouer/cf-jwt-simple"
+    },
+    "bugs":"https://github.com/jsteinshouer/cf-jwt-simple/issues",
+    "slug":"cbjwt",
+    "shortDescription":"A sweet package",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"projects",
+    "keywords":[
+        "jwt",
+        "JSON Web Token"
+    ],
+    "private":false,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"MIT",
+            "url":"http://opensource.org/licenses/MIT"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        "testbox":"^2.4.0+80"
+    },
+    "installPaths":{
+        "testbox":"testbox"
+    },
+    "scripts":{
+        
+    },
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":"",
+        "reporter":"",
+        "bundles":"",
+        "recurse":true,
+        "directory":"tests.specs",
+        "testBundles":"",
+        "testSuites":"",
+        "testSpecs":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    }
+}
